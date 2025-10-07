@@ -47,8 +47,8 @@ We specialize in creating **scalable, high-performance softwares** for startups,
 ## 🌐 Connect With Us
 
 📧 **Email:** hello@malindtech.com  
-💼 **LinkedIn:** [[Malind Tech]](https://www.linkedin.com/company/malindtech)(#)  
-🌍 **Website:** [[https://malindtech.com/]](https://malindtech.com/)(#)  
+💼 **LinkedIn:** [[Malind Tech]](https://www.linkedin.com/company/malindtech)
+🌍 **Website:** [[https://malindtech.com/]](https://malindtech.com/) 
 🐙 **GitHub:** [@malindtech](https://github.com/malindtech)
 
 ---
